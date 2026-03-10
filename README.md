@@ -65,8 +65,8 @@ Visualization    Power BI, Looker Studio, Tableau, Plotly
 
 ---
 
-### What I'm Looking For
+### Currently
 
-Open to **full-time ML Engineer / Data Scientist** roles where I can apply information retrieval, NLP, and large-scale data analysis to real products. Particularly interested in teams working on search, recommendations, or applied ML infrastructure.
+Building at the intersection of **information retrieval** and **applied ML** — designing systems that turn messy retail data into search engines people actually want to use. Most of my work lives at the boundary between research and production: fine-tuning transformer embeddings, then shipping them behind a FastAPI endpoint that responds in under 100 ms.
 
-**[Let's connect →](https://linkedin.com/in/alvinagustio)**
+**[LinkedIn →](https://linkedin.com/in/alvinagustio)**
