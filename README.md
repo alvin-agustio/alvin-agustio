@@ -1,8 +1,8 @@
 ﻿## Alvin Agustio Hans
 
-**ML Engineer** · Information Retrieval · Applied Data Science
+**Machine Learning · Data Science · Software Engineering**
 
-I build production ML systems on real-world retail data — hybrid search engines, customer segmentation pipelines, and executive analytics dashboards — with a focus on measurable outcomes and clean architecture.
+I design and ship ML systems end-to-end — from data pipelines and model training to production APIs and interactive dashboards. I care about clean architecture, measurable outcomes, and writing code that other engineers can read.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinagustio)
 [![Email](https://img.shields.io/badge/alvinagustio79@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alvinagustio79@gmail.com)
@@ -15,7 +15,7 @@ I build production ML systems on real-world retail data — hybrid search engine
 |---|---|
 | **Education** | B.S. Information Systems, Minor in Big Data — Universitas Multimedia Nusantara · **GPA 3.80 / 4.00** |
 | **Experience** | Data Science Intern @ **Matahari Putra Prima (Lippo Group)** · Data Visualization Intern @ **Asia Pulp & Paper (Sinarmas)** |
-| **Focus Areas** | Information Retrieval · NLP · Clustering & Segmentation · Real-time Analytics |
+| **Focus Areas** | Machine Learning · NLP · Data Engineering · Analytics & Visualization |
 | **Languages** | Bahasa Indonesia · English · Teochew |
 
 ---
@@ -57,16 +57,16 @@ Executive analytics dashboard tracking **YoY / YTD KPIs**, customer retention fu
 
 ```text
 Languages        Python, SQL, R
-ML / IR          PyTorch, HuggingFace, scikit-learn, FAISS, BM25, RRF, SymSpell
+ML & DL          PyTorch, HuggingFace, scikit-learn, FAISS, XGBoost
 Data             Pandas, NumPy, ClickHouse, BigQuery, ETL pipelines
-Deployment       FastAPI, Streamlit, Git
-Visualization    Power BI, Looker Studio, Tableau, Plotly
+Backend          FastAPI, REST APIs, Git
+Visualization    Streamlit, Power BI, Looker Studio, Tableau, Plotly
 ```
 
 ---
 
 ### Currently
 
-Building at the intersection of **information retrieval** and **applied ML** — designing systems that turn messy retail data into search engines people actually want to use. Most of my work lives at the boundary between research and production: fine-tuning transformer embeddings, then shipping them behind a FastAPI endpoint that responds in under 100 ms.
+Most of my work lives at the boundary between research and production — training models, evaluating them rigorously, and deploying them as services real users depend on. I enjoy the full loop: messy data in, clean system out.
 
 **[LinkedIn →](https://linkedin.com/in/alvinagustio)**
