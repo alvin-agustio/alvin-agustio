@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # Hi, I'm Alvin Agustio Hans 👋
@@ -60,11 +61,9 @@ from hybrid semantic search engines to large-scale customer segmentation pipelin
 
 | Project | Description | Key Metrics | Stack |
 |---------|-------------|-------------|-------|
-| **[Hybrid Search & Recommendation Engine](#)** | Two-stage pipeline: BM25 lexical ranking fused with IndoBERT semantic embeddings. SymSpell typo recovery, segment-aware personalization. | NDCG@10 = 0.798 · MRR = 0.373 · ~99 ms | FastAPI · PyTorch · FAISS · ClickHouse |
-| **[Customer Segmentation Analytics](#)** | RFM-based clustering on 8M+ retail transactions. KMeans / GMM model selection, ABC-XYZ demand segmentation, market basket analysis (Apriori). | 2M+ customers · 70K+ SKUs | Streamlit · scikit-learn · mlxtend · ClickHouse |
-| **[Loyalty KPI Dashboard](#)** | Executive analytics dashboard with YoY / YTD KPI tracking, customer retention funnel, and sales decomposition. Role-based auth via YAML config. | — | Streamlit · ClickHouse · Python |
-
-> Replace `#` links above with your actual repository URLs.
+| **[Hybrid Search & Recommendation Engine](https://github.com/alvin-agustio/hybrid-search-recommendation-api)** | Two-stage pipeline: BM25 lexical ranking fused with IndoBERT semantic embeddings. SymSpell typo recovery, segment-aware personalization. | NDCG@10 = 0.798 · MRR = 0.373 · ~99 ms | FastAPI · PyTorch · FAISS · ClickHouse |
+| **[Customer Segmentation Analytics](https://github.com/alvin-agustio/customer-segmentation-analytics)** | RFM-based clustering on 8M+ retail transactions. KMeans / GMM model selection, ABC-XYZ demand segmentation, market basket analysis (Apriori). | 2M+ customers · 70K+ SKUs | Streamlit · scikit-learn · mlxtend · ClickHouse |
+| **[Loyalty KPI Dashboard](https://github.com/alvin-agustio/loyalty-kpi-dashboard)** | Executive analytics dashboard with YoY / YTD KPI tracking, customer retention funnel, and sales decomposition. Role-based auth via YAML config. | — | Streamlit · ClickHouse · Python |
 
 ---
 
@@ -100,3 +99,21 @@ from hybrid semantic search engines to large-scale customer segmentation pipelin
 <div align="center">
   <sub>Bahasa Indonesia · English · Teochew</sub>
 </div>
+=======
+## Hi there 👋
+
+<!--
+**alvin-agustio/alvin-agustio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> 317ef828e1c51ef811e7c44f1263a68fe580a831
