@@ -14,9 +14,9 @@ I design and ship ML systems end-to-end — from data pipelines and model traini
 | | |
 |---|---|
 | **Education** | B.S. Information Systems, Minor in Big Data — Universitas Multimedia Nusantara · **GPA 3.80 / 4.00** |
-| **Experience** | Data Science Intern @ **Matahari Putra Prima (Lippo Group)** · Data Visualization Intern @ **Asia Pulp & Paper (Sinarmas)** |
+| **Experience** | Data Science Intern @ **Matahari Putra Prima (Lippo Group)** · Data Visualization Intern @ **Asia Pulp & Paper (Sinarmas Group)** |
 | **Focus Areas** | Machine Learning · NLP · Data Engineering · Analytics & Visualization |
-| **Languages** | Bahasa Indonesia · English · Teochew |
+| **Languages** | Bahasa Indonesia · English |
 
 ---
 
@@ -67,6 +67,6 @@ Visualization    Streamlit, Power BI, Looker Studio, Tableau, Plotly
 
 ### Currently
 
-Most of my work lives at the boundary between research and production — training models, evaluating them rigorously, and deploying them as services real users depend on. I enjoy the full loop: messy data in, clean system out.
+I enjoy working across the full process of building data solutions, from messy data and model experiments to turning them into tools people can actually use.
 
-**[LinkedIn →](https://linkedin.com/in/alvinagustio)**
+**[Let's connect! →](https://linkedin.com/in/alvinagustio)**
