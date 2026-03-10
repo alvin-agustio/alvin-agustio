@@ -1,119 +1,72 @@
-<<<<<<< HEAD
-<div align="center">
+﻿## Alvin Agustio Hans
 
-# Hi, I'm Alvin Agustio Hans 👋
+**ML Engineer** · Information Retrieval · Applied Data Science
 
-**Information Systems · Data Science · Machine Learning · Information Retrieval**
+I build production ML systems on real-world retail data — hybrid search engines, customer segmentation pipelines, and executive analytics dashboards — with a focus on measurable outcomes and clean architecture.
 
-Final-year student building production-grade ML systems —
-from hybrid semantic search engines to large-scale customer segmentation pipelines.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinagustio)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alvinagustio79@gmail.com)
-[![Location](https://img.shields.io/badge/Tangerang%2C_Indonesia-gray?style=flat&logo=googlemaps&logoColor=white)](#)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinagustio)
+[![Email](https://img.shields.io/badge/alvinagustio79@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alvinagustio79@gmail.com)
 
 ---
 
-## About Me
-
-- 🎓 **B.S. Information Systems**, Minor in Big Data — Universitas Multimedia Nusantara · GPA **3.80 / 4.00**
-- 🏢 Data Science Intern @ **PT. Matahari Putra Prima Tbk (Lippo Group)**, Sep 2025 – Feb 2026
-- 🔍 Built a hybrid BM25 + IndoBERT search engine — **NDCG@10 = 0.798**, ~99 ms median latency
-- 📊 Analyzed **8M+ transactions** across **2M+ customers** for behavioral segmentation
-- 📈 Previously a Data Visualization Intern @ **Asia Pulp & Paper (Sinarmas Group)**, Jan–Jul 2025
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Query**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-**Machine Learning & Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Databases & Infrastructure**
-
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-
-**Deployment & Visualization**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Key Metrics | Stack |
-|---------|-------------|-------------|-------|
-| **[Hybrid Search & Recommendation Engine](https://github.com/alvin-agustio/hybrid-search-recommendation-api)** | Two-stage pipeline: BM25 lexical ranking fused with IndoBERT semantic embeddings. SymSpell typo recovery, segment-aware personalization. | NDCG@10 = 0.798 · MRR = 0.373 · ~99 ms | FastAPI · PyTorch · FAISS · ClickHouse |
-| **[Customer Segmentation Analytics](https://github.com/alvin-agustio/customer-segmentation-analytics)** | RFM-based clustering on 8M+ retail transactions. KMeans / GMM model selection, ABC-XYZ demand segmentation, market basket analysis (Apriori). | 2M+ customers · 70K+ SKUs | Streamlit · scikit-learn · mlxtend · ClickHouse |
-| **[Loyalty KPI Dashboard](https://github.com/alvin-agustio/loyalty-kpi-dashboard)** | Executive analytics dashboard with YoY / YTD KPI tracking, customer retention funnel, and sales decomposition. Role-based auth via YAML config. | — | Streamlit · ClickHouse · Python |
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvin-agustio&show_icons=true&hide_border=true&theme=default&hide=stars)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-agustio&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-## 🏅 Certifications
-
-- 📜 **IBM Data Analyst Professional Certificate** — In Progress *(Expected Jun 2026)*
-- 📜 **DQLab: Statistics using R for Data Science** — Feb 2023
-
----
-
-## 📬 Get In Touch
+### At a Glance
 
 | | |
-|--|--|
-| 📧 Email | [alvinagustio79@gmail.com](mailto:alvinagustio79@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/alvinagustio](https://linkedin.com/in/alvinagustio) |
-| 📱 WhatsApp | +62 822 5439 0962 |
+|---|---|
+| **Education** | B.S. Information Systems, Minor in Big Data — Universitas Multimedia Nusantara · **GPA 3.80 / 4.00** |
+| **Experience** | Data Science Intern @ **Matahari Putra Prima (Lippo Group)** · Data Visualization Intern @ **Asia Pulp & Paper (Sinarmas)** |
+| **Focus Areas** | Information Retrieval · NLP · Clustering & Segmentation · Real-time Analytics |
+| **Languages** | Bahasa Indonesia · English · Teochew |
 
 ---
 
-<div align="center">
-  <sub>Bahasa Indonesia · English · Teochew</sub>
-</div>
-=======
-## Hi there 👋
+### Featured Work
 
-<!--
-**alvin-agustio/alvin-agustio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### [Hybrid Search & Recommendation Engine](https://github.com/alvin-agustio/hybrid-search-recommendation-api)
 
-Here are some ideas to get you started:
+End-to-end product search service deployed on FastAPI, combining **BM25 lexical retrieval** with **IndoBERT semantic embeddings** via reciprocal rank fusion. Includes two-stage fine-tuning (contrastive + distillation), SymSpell typo recovery, and segment-aware re-ranking for personalized results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 317ef828e1c51ef811e7c44f1263a68fe580a831
+| Metric | Value |
+|--------|-------|
+| NDCG@10 | **0.798** |
+| MRR | **0.373** |
+| Recall@5 | **0.558** |
+| Median Latency | **~99 ms** |
+
+`Python` · `PyTorch` · `HuggingFace Transformers` · `FAISS` · `FastAPI` · `ClickHouse`
+
+---
+
+#### [Customer Segmentation Analytics](https://github.com/alvin-agustio/customer-segmentation-analytics)
+
+Analyzed **8M+ retail transactions** across **2M+ customers** to build behavioral segments using RFM feature engineering and unsupervised clustering (KMeans, MiniBatch KMeans, GMM). Includes ABC-XYZ demand classification over **70K+ SKUs** and market basket analysis (Apriori) for cross-sell recommendations. Interactive Streamlit dashboard with live model selection and segment exploration.
+
+`Python` · `scikit-learn` · `mlxtend` · `Streamlit` · `ClickHouse`
+
+---
+
+#### [Loyalty KPI Dashboard](https://github.com/alvin-agustio/loyalty-kpi-dashboard)
+
+Executive analytics dashboard tracking **YoY / YTD KPIs**, customer retention funnels, healthiness scoring, and sales decomposition across retail loyalty programs. Built with role-based authentication and modular page architecture to support multiple stakeholder views.
+
+`Python` · `Streamlit` · `ClickHouse`
+
+---
+
+### Technical Skills
+
+```text
+Languages        Python, SQL, R
+ML / IR          PyTorch, HuggingFace, scikit-learn, FAISS, BM25, RRF, SymSpell
+Data             Pandas, NumPy, ClickHouse, BigQuery, ETL pipelines
+Deployment       FastAPI, Streamlit, Git
+Visualization    Power BI, Looker Studio, Tableau, Plotly
+```
+
+---
+
+### What I'm Looking For
+
+Open to **full-time ML Engineer / Data Scientist** roles where I can apply information retrieval, NLP, and large-scale data analysis to real products. Particularly interested in teams working on search, recommendations, or applied ML infrastructure.
+
+**[Let's connect →](https://linkedin.com/in/alvinagustio)**
