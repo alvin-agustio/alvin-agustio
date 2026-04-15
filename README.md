@@ -47,7 +47,13 @@ Executive analytics dashboard for tracking YoY and YTD KPIs, retention funnels, 
 
 #### [ABSA Fintech Review](https://github.com/alvin-agustio/absa-fintech-review)
 
-End-to-end NLP platform for analyzing Indonesian fintech lending app reviews across **risk**, **trust**, and **service** aspects. Covers preprocessing, weak-label reconciliation, transformer fine-tuning, model evaluation, and a research dashboard for live and offline analysis.
+End-to-end NLP platform for analyzing **505K+ Indonesian fintech reviews** from Akulaku and Kredivo across **risk**, **trust**, and **service** aspects. Covers preprocessing, weak-label reconciliation, **PEFT (LoRA) transformer fine-tuning**, model evaluation, and a research dashboard for live and offline analysis.
+
+| Metric | Value |
+|--------|-------|
+| Reviews Analyzed | **505K+** |
+| Training Time Reduction | **up to 40%** |
+| Best Accuracy | **95.22%** |
 
 `Python` | `PyTorch` | `Transformers` | `PEFT` | `Streamlit` | `DuckDB`
 
