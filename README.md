@@ -1,8 +1,8 @@
 ## Alvin Agustio Hans
 
-**Business Intelligence | Data Engineering | Data Science**
+**Data Engineering | Business Intelligence | Applied Data Science**
 
-I build practical ML systems that turn search, NLP, and analytics into usable products. My work usually spans the full path from messy data and model experimentation to APIs, dashboards, and decision-ready outputs. I care about clean architecture, measurable outcomes, and tools that other people can actually use.
+I build practical data systems that turn raw data into reliable, decision-ready outputs. My work spans data pipelines, ETL/ELT, SQL, Python, data warehousing, analytics, and lightweight ML applications. I care about clean architecture, data quality, measurable outcomes, and building tools that are useful in real-world workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinagustio)
 [![Email](https://img.shields.io/badge/alvinagustio79@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alvinagustio79@gmail.com)
@@ -15,7 +15,7 @@ I build practical ML systems that turn search, NLP, and analytics into usable pr
 |---|---|
 | **Education** | B.S. Information Systems, Minor in Big Data, Universitas Multimedia Nusantara \| **GPA 3.81 / 4.00** |
 | **Experience** | Data Science Intern @ **Matahari Putra Prima (Lippo Group)** \| Data Visualization Intern @ **Asia Pulp & Paper (Sinarmas Group)** |
-| **Focus Areas** | Machine Learning \| NLP \| Search Systems \| Analytics Engineering |
+| **Focus Areas** | Data Engineering | Data Warehousing | Business Intelligence | Analytics Engineering |
 | **Languages** | Bahasa Indonesia \| English |
 
 ---
@@ -84,17 +84,18 @@ Analyzed **8M+ retail transactions** across **2M+ customers** to build behaviora
 ### Technical Skills
 
 ```text
-Languages        Python, SQL, R
-ML & DL          PyTorch, HuggingFace, scikit-learn, FAISS, XGBoost
-Data             Pandas, NumPy, ClickHouse, BigQuery, ETL pipelines
-Backend          FastAPI, REST APIs, Git
-Visualization    Streamlit, Power BI, Looker Studio, Tableau, Plotly
+Languages          Python, SQL
+Data Engineering   ETL/ELT, Data Pipelines, Apache Airflow, dbt, MinIO, Parquet, Docker Compose
+Databases & DWH    PostgreSQL, MySQL, ClickHouse, BigQuery, Data Warehousing
+BI & Analytics     Power BI, Tableau, Streamlit, Looker Studio
+Backend & Tools    FastAPI, REST APIs, Git
+ML & NLP           PyTorch, HuggingFace, scikit-learn, FAISS
 ```
 
 ---
 
 ### Currently
 
-I enjoy building the full shape of a data product, from raw data and model experiments to interfaces that help people make better decisions.
+I enjoy building the full shape of a data product, from raw data ingestion and transformation to reliable datasets, analytics, models, and interfaces that help people make better decisions.
 
 **[Let's connect! ->](https://linkedin.com/in/alvinagustio)**
