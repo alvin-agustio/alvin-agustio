@@ -1,6 +1,6 @@
 ## Alvin Agustio Hans
 
-**Machine Learning | Data Science | Software Engineering**
+**Business Intelligence | Data Engineering | Data Science**
 
 I build practical ML systems that turn search, NLP, and analytics into usable products. My work usually spans the full path from messy data and model experimentation to APIs, dashboards, and decision-ready outputs. I care about clean architecture, measurable outcomes, and tools that other people can actually use.
 
