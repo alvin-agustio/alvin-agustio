@@ -22,6 +22,20 @@ I build practical ML systems that turn search, NLP, and analytics into usable pr
 
 ### Featured Work
 
+#### [Retail Price Intelligence Pipeline](https://github.com/alvin-agustio/retail-price-intelligence-pipeline)
+
+End-to-end **data engineering pipeline** for comparing public electronics catalog prices across Indonesian retailers. Collects reproducible product observations into raw MinIO storage, validates and standardizes them with Pydantic and Parquet, then serves an analytics-ready PostgreSQL + dbt warehouse.
+
+| Metric | Value |
+|--------|-------|
+| Retailers Modeled | **4** |
+| Product Categories | **3** |
+| Data Flow | **Bronze → Silver → Gold** |
+
+`Python` | `MinIO` | `Parquet` | `PostgreSQL` | `dbt` | `Docker Compose`
+
+---
+
 #### [Hybrid Search & Recommendation Engine](https://github.com/alvin-agustio/hybrid-search-recommendation-api)
 
 End-to-end product search service deployed on FastAPI, combining **BM25 lexical retrieval** with **IndoBERT semantic embeddings** through reciprocal rank fusion. Includes two-stage fine-tuning, typo recovery with SymSpell, and segment-aware re-ranking for more relevant product discovery.
