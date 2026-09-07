@@ -13,7 +13,7 @@ I build practical ML systems that turn search, NLP, and analytics into usable pr
 
 | | |
 |---|---|
-| **Education** | B.S. Information Systems, Minor in Big Data, Universitas Multimedia Nusantara \| **GPA 3.80 / 4.00** |
+| **Education** | B.S. Information Systems, Minor in Big Data, Universitas Multimedia Nusantara \| **GPA 3.81 / 4.00** |
 | **Experience** | Data Science Intern @ **Matahari Putra Prima (Lippo Group)** \| Data Visualization Intern @ **Asia Pulp & Paper (Sinarmas Group)** |
 | **Focus Areas** | Machine Learning \| NLP \| Search Systems \| Analytics Engineering |
 | **Languages** | Bahasa Indonesia \| English |
